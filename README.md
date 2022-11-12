@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patnana Lokeswara Rao</h1>
-<h3 align="center">I am a Programmer Web Developer</h3>
+<h3 align="center">I am a Programmer and Python Developer and Software Developer and Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshpatnana&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshpatnana" /> </p>
 
