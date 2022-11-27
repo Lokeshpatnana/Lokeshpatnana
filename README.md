@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **django,Flask,Java**
 
-- 💬 Ask me about **react.JS**
+- 💬 Ask me about **Python 3**
 
 - 📫 How to reach me **lokeshpatnana1@gmail.com**
 
